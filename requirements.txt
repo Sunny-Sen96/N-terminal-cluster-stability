@@ -4,9 +4,3 @@ matplotlib
 seaborn
 logomaker
 scipy
-shap
-joblib
-xgboost
-PyQt5
-biopython
-Flask
