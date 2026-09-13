@@ -58,11 +58,11 @@ At the moment, these publications are in the preparation & submission phase.
 ## Contact
 If you need assistance, please contact kunjapurlab [at] udel (dot) edu and put [N-degron methods] at the beginning of your email subject line. Learn more about the lab here: https://www.kunjapurlab.org/ 
 
-You may also email the first author and primary developer of this code at sabyasachi.sen96@gmail.com. Feel free to reach out on LinkedIn as well: https://www.linkedin.com/in/sabyasachi-sen/ 
+You may also email the first author and primary developer of this code at ssen796[at]gmail(dot)com. Feel free to reach out on LinkedIn as well: https://www.linkedin.com/in/sabyasachi-sen/ 
 
 ## FAQS 
 Q: What versions of Python has this code been tested?
-A: The code has been developed and tested on Python 3.13
+A: The code has been developed and tested on Python 3.11
 
 ## History
-This code was last updated in April 2025
+This code was last updated in September 2026.
